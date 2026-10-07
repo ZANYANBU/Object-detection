@@ -1,4 +1,4 @@
-# Object-detectio-Security Surveillance System
+# Object Detection Security Surveillance System
 
 A comprehensive home security surveillance application built with Python that uses computer vision and machine learning to detect intruders and send real-time alerts.
 
